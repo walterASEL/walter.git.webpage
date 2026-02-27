@@ -1,0 +1,29 @@
+---
+title: "About me"
+about: 
+  id: me
+  template: broadside
+  image: img/WalterFieldPhoto.jpeg
+---
+
+:::{#me}
+## W. David Walter
+I am the Assistant Unit Leader at the Pennsylvania Cooperative Fish and Wildlife Research Unit (Unit) and serve as Adjunct Associate Professor of Wildlife Ecology in the Department of Ecosystem Science and Management (Department) at The Pennsylvania State University (PSU).
+
+## Education
+
+B.Sc. 1995. Wildlife Biology, SUNY - College of Environmental Science and Forestry
+
+M.Sc. 2000. Wildlife Ecology, University of New Hampshire
+
+Walter, W.D. 2000. A field test of the PZP immunocontraceptive vaccine on a population
+of white-tailed deer (Odocoileus virginianus) in suburban Connecticut. Thesis, University of New
+Hampshire, Durham, New Hampshire. 75 pp.
+
+PhD. 2006. Conservation Science - Wildlife Ecology, Oklahoma State University
+
+Walter, W.D. 2006. Ecology of a colonizing population of Rocky Mountain elk (Cervus elaphus).
+Dissertation, Oklahoma State University, Stillwater, Oklahoma. 151 pp.
+
+:::
+

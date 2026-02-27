@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+   - Walter_Git_CV.pdf
+   - RegistrationForm.pdf
+
+website:
+  title: "Walter Applied Spatial Ecology Laboratory"
+  site-url: https://walterasel.github.io/walterASEL.git.io/
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.md
+      - text: CV
+        href: cv/index.qmd
+      - text: Research
+        href: research.md
+      - text: Lab Members
+        href: labmembers.md
+      - text: Join the Lab
+        href: Join the Lab/index.qmd
+      - text: Publications
+        href: publications.md
+      - text: Presentations
+        href: Presentations/index.qmd
+      - text: Projects
+        href: projects.md
+      - text: Workshops
+        href: RegForm/index.qmd
+      - text: Manual
+        href: manual.md
+    tools:
+      - icon: envelope
+        href: mailto:wdw12@psu
+      - icon: twitter
+        href: https://twitter.com/walterASEL
+      - icon: github
+        href: https://github.com/walterASEL
+      - icon: linkedin
+        href: https://www.linkedin.com/in/w-david-walter-4434a094/
+  
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2024, W. David Walter"
+
+format:
+  html:
+    theme: darkly
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+css: style.css
+editor: source
+

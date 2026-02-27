@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Walter Applied Spatial Ecology Laboratory"
-  site-url: https://walterasel.github.io/walterASEL.git.io/
+  site-url: https://walterasel.github.io/walter.git.webpage/
   navbar:
     left:
       - text: Home

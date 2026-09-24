@@ -12,8 +12,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.md
+      #- text: About
+      #  href: about.md
       - text: CV
         href: cv/index.qmd
       - text: Research
@@ -34,7 +34,7 @@ website:
         href: manual.md
     tools:
       - icon: envelope
-        href: mailto:wdw12@psu
+        href: mailto:wdavid.walter@wsu.edu
       - icon: twitter
         href: https://twitter.com/walterASEL
       - icon: github
@@ -44,7 +44,7 @@ website:
   
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, W. David Walter"
+    left: "&copy; Copyright 2026, W. David Walter"
 
 format:
   html:

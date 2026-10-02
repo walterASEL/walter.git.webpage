@@ -4,6 +4,15 @@ title: "Publications"
 ### Peer-reviewed
 
 **Most Recent (2020-2025)**
+Fameli, A., J.E. Edson, K.L. Schuler, Walter, W.D.. 2026. Inferring geographic origin of white-tailed deer (Odocoileus virginianus) using single nucleotide polymorphisms in a region experiencing long-term effects of chronic wasting disease. Ecology and Evolution In press
+
+Walters, T.S., VerCauteren, K.C. and Walter, W.D. 2026. Space and resource use by American crow Corvus brachyrhynchos in an area endemic for chronic wasting disease. Wildlife Biology e01672. https://doi.org/10.1002/wlb3.01672
+
+Wehr, N.H., C.S. Rosenberry, D. Stainbrook, M. Staats, A.L. Korman, and W.D. Walter. 2026. Regional-scale agent-based model of chronic wasting disease management among white-tailed deer: PAOvCWD. MethodsX. 16:103823; https://doi.org/10.1016/j.mex.2026.103823.
+
+Bondo, K.J., T. Wolf, and W.D. Walter. 2026. Generating geochemical distributions of soil in the conterminous United States using R-INLA. MethodsX 16:103836; https://doi.org/10.1016/j.mex.2026.103837.
+
+Wehr, N.H., K.J. Bondo, C.S. Rosenberry, D. Stainbrook, B.D. Wallingford, and W.D. Walter. 2025. Intraspecific contact among white-tailed deer: a literature review and chronic wasting disease case study. Ecology and Evolution. 16(3): e73040. https://doi.org/10.1002/ece3.73040. 2025
 
 Navarro, D., A.K. Tallon,  E.K.  Latch,  C.N. Ott-Conn,  R.W.  DeYoung,  D.P.  Walsh,  P.T.  Euclide,  B.C.  Ganesh,  W.A.  Larson,  A.S. Seetharam,  A.J.  Severin,  J.M.  Reecy,  Z. Hu,  J.R. Cantrell,  M.  Carstensen,  J.N. Caudell,   C.H.   Killmaster,  M.L.  Lockwood,  W.T. McKinley,  A.S.  Norton,  K.L. Schuler,  D.J. Storm,  J.A. Sumners,  \textbf{W.D. Walter},  J.A.  Blanchong.  2025.  Development of high-throughput genomic resources to inform white-tailed deer population and disease management.  Molecular Ecology Resources \emph{In press}
 

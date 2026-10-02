@@ -5,9 +5,9 @@ title: "Publications"
 
 **Most Recent (2020-2026)**
 
-Fameli, A., J.E. Edson, K.L. Schuler, Walter, W.D.. 2026. Inferring geographic origin of white-tailed deer (Odocoileus virginianus) using single nucleotide polymorphisms in a region experiencing long-term effects of chronic wasting disease. Ecology and Evolution In press
+Fameli, A., J.E. Edson, K.L. Schuler, and W.D. Walter. 2026. Inferring geographic origin of white-tailed deer (Odocoileus virginianus) using single nucleotide polymorphisms in a region experiencing long-term effects of chronic wasting disease. Ecology and Evolution In press
 
-Walters, T.S., VerCauteren, K.C. and Walter, W.D. 2026. Space and resource use by American crow Corvus brachyrhynchos in an area endemic for chronic wasting disease. Wildlife Biology e01672. https://doi.org/10.1002/wlb3.01672
+Walters, T.S., K.C. VerCauteren, and W.D. Walter. 2026. Space and resource use by American crow Corvus brachyrhynchos in an area endemic for chronic wasting disease. Wildlife Biology e01672. https://doi.org/10.1002/wlb3.01672
 
 Wehr, N.H., C.S. Rosenberry, D. Stainbrook, M. Staats, A.L. Korman, and W.D. Walter. 2026. Regional-scale agent-based model of chronic wasting disease management among white-tailed deer: PAOvCWD. MethodsX. 16:103823; https://doi.org/10.1016/j.mex.2026.103823.
 
